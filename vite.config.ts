@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: 'https://github.com/anymestoreid/arem-arem', // 👈 TAMBAHKAN BARIS INI
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
