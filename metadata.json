@@ -1,0 +1,6 @@
+{
+  "name": "Arem Arem Ibu Sarsi",
+  "description": "Landing page modern dan menarik untuk kuliner tradisional Arem Arem Ibu Sarsi, Klaten. Segar, lembut, dan gurih setiap pagi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
