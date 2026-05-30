@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/arem-arem/', // <-- UBAH DI BARIS INI
+    base: './', // <-- UBAH DI BARIS INI
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
