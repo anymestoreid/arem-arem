@@ -144,7 +144,7 @@ export default function Hero() {
               {/* Delicious Food Image */}
               <div className="w-full h-full p-4">
                 <img
-                  src="https://images.unsplash.com/photo-1596797038530-2c107229654b?w=800&auto=format&fit=crop&q=80"
+                  src="https://i.imgur.com/c1RibaU.jpeg"
                   alt="Aesthetic traditional rice rolls wrapped in green leaves"
                   className="w-full h-full object-cover rounded-[2rem] shadow-food-lg group-hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"
