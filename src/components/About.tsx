@@ -36,7 +36,7 @@ export default function About() {
             <div className="relative group">
               <div className="absolute top-4 left-4 -right-4 -bottom-4 bg-leaf-600/10 rounded-2xl -z-10 transition-all group-hover:bg-leaf-650/15" />
               <img
-                src="https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=600&auto=format&fit=crop&q=80"
+                src="https://i.imgur.com/c1RibaU.jpeg"
                 alt="Traditional cooking of Indonesian snacks with rice and direct spices"
                 className="w-full h-[450px] object-cover rounded-2xl shadow-food border border-cream-300 transform transition duration-500 hover:scale-[1.02]"
                 referrerPolicy="no-referrer"
