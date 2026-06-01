@@ -10,37 +10,37 @@ export default function Gallery() {
     {
       id: 'gal-1',
       caption: 'Arem Arem Gurih hangat baru dikukus',
-      image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=800&auto=format&fit=crop&q=80',
+      image: 'https://i.imgur.com/GFh0ilZ.jpeg',
       category: 'makanan',
     },
     {
       id: 'gal-2',
       caption: 'Tungku pengukusan uap air tradisional',
-      image: 'https://images.unsplash.com/photo-1541832676-9b763b0239ab?w=800&auto=format&fit=crop&q=80',
+      image: 'https://i.imgur.com/1KYQqBC.jpeg',
       category: 'proses',
     },
     {
       id: 'gal-3',
       caption: 'Kemasan box anyaman besek organik',
-      image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&auto=format&fit=crop&q=80',
+      image: 'https://i.imgur.com/lCPIl57.jpeg',
       category: 'packaging',
     },
     {
       id: 'gal-4',
       caption: 'Pesanan ratusan pcs arem-arem siap hantaran arisan',
-      image: 'https://images.unsplash.com/photo-1555126634-323283e090fa?w=800&auto=format&fit=crop&q=80',
+      image: 'https://i.imgur.com/dxDOJLF.jpeg',
       category: 'pembeli',
     },
     {
       id: 'gal-5',
       caption: 'Seleksi daun pisang kepok muda berkualitas dari kebun',
-      image: 'https://images.unsplash.com/photo-1569562211093-4ed0d0758f12?w=800&auto=format&fit=crop&q=80',
+      image: 'https://i.imgur.com/ok3L8vN.jpeg',
       category: 'proses',
     },
     {
       id: 'gal-6',
       caption: 'Keluarga berkumpul menikmati sarapan arem-arem hangat',
-      image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&auto=format&fit=crop&q=80',
+      image: 'https://i.imgur.com/cMHvbjz.jpeg',
       category: 'pembeli',
     },
   ];
