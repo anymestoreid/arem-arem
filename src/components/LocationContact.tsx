@@ -3,7 +3,7 @@ import { Mail, Phone, MapPin, Clock, ExternalLink, CalendarDays, Share2 } from '
 
 export default function LocationContact() {
   const addressQuery = "Bener, Bugisan, Kec. Prambanan, Kabupaten Klaten, Jawa Tengah 57454";
-  const mapsUrl = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.4352470564377!2d110.49633949999999!3d-7.7435719999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5bfc5db02217%3A0x992d7a6b7459005b!2sArem%20arem%20mbak%20sarsi!5e0!3m2!1sid!2sid!4v1780306264062!5m2!1sid!2sid${encodeURIComponent(addressQuery)}`;
+  const mapsUrl = `https://www.google.com/maps/place/Arem+arem+mbak+sarsi/@-7.743572,110.4963395,17z/data=!3m1!4b1!4m6!3m5!1s0x2e7a5bfc5db02217:0x992d7a6b7459005b!8m2!3d-7.743572!4d110.4963395!16s%2Fg%2F11pz2wqds1?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D${encodeURIComponent(addressQuery)}`;
   const waUrl = "https://wa.me/62895363093202?text=Halo%20Ibu%20Sarsi,%20bisa%20tolong%20kirimkan%20share%20lokasi%20Google%20Maps%20ke%20saya%3F";
 
   const contactsInfo = [
